@@ -1,4 +1,4 @@
 :HL["/diagnostico/_next/static/chunks/0obbbrnue46mq.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"rElYvPc5Ia0UaB6JaRcpC","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aFwzyMqKiRnOxcQ81n_ey","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
